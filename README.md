@@ -1,11 +1,11 @@
-# Elite Dangerous Scripts and Tools
+# PY projects to grab stuff
 
 This project contains a collection of Python scripts and tools designed to automate various tasks.
 
 ## Components
 
 * **Combo Searcher:**  Helps find logins for the different DBs.
-* **EDSNIPER:**  Tool for EcoleDirecte
+* **EDSNIPER:**  Tool for EcoleDirecte (French ENT thingy)
 
 ## Additional Files
 
